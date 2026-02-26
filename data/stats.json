@@ -1,0 +1,29 @@
+{
+  "total_words": 8527,
+  "divine_words": 4162,
+  "prime_words": 1652,
+  "categories": {
+    "ontological": 6189,
+    "temporal": 582,
+    "relational": 964,
+    "operational": 76,
+    "affective": 232,
+    "quantitative": 484
+  },
+  "patterns": {
+    "pure_prime": 1652,
+    "divine_7": 1206,
+    "composite": 3437,
+    "prime_times_2": 925,
+    "divine_13": 545,
+    "divine_19": 393,
+    "prime_power": 369
+  },
+  "gematria_min": 23,
+  "gematria_max": 253,
+  "alphabet_size": 24,
+  "language": "Old Norse",
+  "script": "Elder Futhark Runes",
+  "era": "200 - 1300 CE",
+  "family": "Germanic"
+}
